@@ -7,7 +7,11 @@
     }
 }
 
-.jumbotron {
+a {
+    color: #994fe2;
+}
+
+a:hover {
     color: #994fe2;
 }
 
@@ -41,11 +45,19 @@
     border-color: #ffc6ff;
 }
 
+.footer {
+    color: #994fe2;
+}
+
 hr {
     margin-top: 20px;
     margin-bottom: 20px;
     border: 0;
     border-top: 1px solid #994fe2;
+}
+
+.jumbotron {
+    color: #994fe2;
 }
 
 .list-group {
