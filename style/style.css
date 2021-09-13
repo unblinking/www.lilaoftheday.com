@@ -1,0 +1,12 @@
+body {
+  font-family: 'Cutive Mono', monospace;
+}
+div.centered {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center
+}
+div.centered p {
+  margin: 0
+}
