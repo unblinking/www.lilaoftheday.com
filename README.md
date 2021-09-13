@@ -1,3 +1,3 @@
-# Lila of the Day, Website  
+# lilaoftheday.com  
 
-This is the source code repo for the [Lila of the Day](http://www.LilaOfTheDay.com/) website.  
+🌐 GitHub Pages repository for [LilaOfTheDay.com](https://www.lilaoftheday.com).  
